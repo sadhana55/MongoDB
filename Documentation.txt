@@ -1,0 +1,18 @@
+1. Input files for database:
+EMPLOYEE.csv
+PROJECT.csv
+DEPT_LOCATIONS.csv
+WORKS_ON.csv
+
+2. SQL Queries in Relational database output
+DB2file.out
+
+3. Load data in Relational Database:
+Mongodb-Load_data_SQL.py
+
+4.Implementation of NOSQL database
+Mongodb.py
+
+5. XML files created
+Department.xml
+Project.xml
