@@ -1,0 +1,585 @@
+<Projects>
+  <Project Project_No="1">
+    <Project_Name>ProductX</Project_Name>
+    <Dept_Name>Research</Dept_Name>
+    <Employees>
+      <Employee>
+        <FirstName>John</FirstName>
+        <LastName> Smith</LastName>
+        <Hours>32.5</Hours>
+      </Employee>
+      <Employee>
+        <FirstName>Joyce</FirstName>
+        <LastName> English</LastName>
+        <Hours>20</Hours>
+      </Employee>
+      <Employee>
+        <FirstName>Roy</FirstName>
+        <LastName> Lewallen</LastName>
+        <Hours>2</Hours>
+      </Employee>
+      <Employee>
+        <FirstName>Jisha</FirstName>
+        <LastName> Carpenter</LastName>
+        <Hours>25</Hours>
+      </Employee>
+    </Employees>
+  </Project>
+  <Project Project_No="2">
+    <Project_Name>ProductY</Project_Name>
+    <Dept_Name>Research</Dept_Name>
+    <Employees>
+      <Employee>
+        <FirstName>John</FirstName>
+        <LastName> Smith</LastName>
+        <Hours>7.5</Hours>
+      </Employee>
+      <Employee>
+        <FirstName>Joyce</FirstName>
+        <LastName> English</LastName>
+        <Hours>20</Hours>
+      </Employee>
+      <Employee>
+        <FirstName>Franklin</FirstName>
+        <LastName> Wong</LastName>
+        <Hours>10</Hours>
+      </Employee>
+      <Employee>
+        <FirstName>Roy</FirstName>
+        <LastName> Lewallen</LastName>
+        <Hours>2</Hours>
+      </Employee>
+    </Employees>
+  </Project>
+  <Project Project_No="3">
+    <Project_Name>ProductZ</Project_Name>
+    <Dept_Name>Research</Dept_Name>
+    <Employees>
+      <Employee>
+        <FirstName>Ramesh</FirstName>
+        <LastName> Narayan</LastName>
+        <Hours>40</Hours>
+      </Employee>
+      <Employee>
+        <FirstName>Franklin</FirstName>
+        <LastName> Wong</LastName>
+        <Hours>10</Hours>
+      </Employee>
+      <Employee>
+        <FirstName>Roy</FirstName>
+        <LastName> Lewallen</LastName>
+        <Hours>4</Hours>
+      </Employee>
+      <Employee>
+        <FirstName>Andrea</FirstName>
+        <LastName> Sondrini</LastName>
+        <Hours>45</Hours>
+      </Employee>
+      <Employee>
+        <FirstName>Johny</FirstName>
+        <LastName> Smith</LastName>
+        <Hours>10</Hours>
+      </Employee>
+    </Employees>
+  </Project>
+  <Project Project_No="10">
+    <Project_Name>Computerization</Project_Name>
+    <Dept_Name>Administration</Dept_Name>
+    <Employees>
+      <Employee>
+        <FirstName>Franklin</FirstName>
+        <LastName> Wong</LastName>
+        <Hours>10</Hours>
+      </Employee>
+      <Employee>
+        <FirstName>Alicia</FirstName>
+        <LastName> Zelaya</LastName>
+        <Hours>10</Hours>
+      </Employee>
+      <Employee>
+        <FirstName>Ahmad</FirstName>
+        <LastName> Jabbar</LastName>
+        <Hours>35</Hours>
+      </Employee>
+      <Employee>
+        <FirstName>Roy</FirstName>
+        <LastName> Lewallen</LastName>
+        <Hours>4</Hours>
+      </Employee>
+      <Employee>
+        <FirstName>Jake</FirstName>
+        <LastName> Sheen</LastName>
+        <Hours>25</Hours>
+      </Employee>
+      <Employee>
+        <FirstName>Richard</FirstName>
+        <LastName> Koelbel</LastName>
+        <Hours>35</Hours>
+      </Employee>
+    </Employees>
+  </Project>
+  <Project Project_No="20">
+    <Project_Name>Reorganization</Project_Name>
+    <Dept_Name>Headquarters</Dept_Name>
+    <Employees>
+      <Employee>
+        <FirstName>Franklin</FirstName>
+        <LastName> Wong</LastName>
+        <Hours>10</Hours>
+      </Employee>
+      <Employee>
+        <FirstName>Jennifer</FirstName>
+        <LastName> Wallace</LastName>
+        <Hours>15</Hours>
+      </Employee>
+      <Employee>
+        <FirstName>James</FirstName>
+        <LastName> Borg</LastName>
+        <Hours>5</Hours>
+      </Employee>
+      <Employee>
+        <FirstName>Roy</FirstName>
+        <LastName> Lewallen</LastName>
+        <Hours>4</Hours>
+      </Employee>
+      <Employee>
+        <FirstName>Johny</FirstName>
+        <LastName> Smith</LastName>
+        <Hours>10</Hours>
+      </Employee>
+    </Employees>
+  </Project>
+  <Project Project_No="70">
+    <Project_Name>Advertizing</Project_Name>
+    <Dept_Name>HR</Dept_Name>
+    <Employees>
+      <Employee>
+        <FirstName>Erin</FirstName>
+        <LastName> Maxfield</LastName>
+        <Hours>20</Hours>
+      </Employee>
+      <Employee>
+        <FirstName>Roy</FirstName>
+        <LastName> Lewallen</LastName>
+        <Hours>2</Hours>
+      </Employee>
+      <Employee>
+        <FirstName>Megan</FirstName>
+        <LastName> Jones</LastName>
+        <Hours>40</Hours>
+      </Employee>
+      <Employee>
+        <FirstName>Percy</FirstName>
+        <LastName> Liang</LastName>
+        <Hours>10</Hours>
+      </Employee>
+    </Employees>
+  </Project>
+  <Project Project_No="62">
+    <Project_Name>DatabaseSystems</Project_Name>
+    <Dept_Name>Software</Dept_Name>
+    <Employees>
+      <Employee>
+        <FirstName>Erin</FirstName>
+        <LastName> Maxfield</LastName>
+        <Hours>20</Hours>
+      </Employee>
+      <Employee>
+        <FirstName>Evan</FirstName>
+        <LastName> Wallis</LastName>
+        <Hours>40</Hours>
+      </Employee>
+      <Employee>
+        <FirstName>Josh</FirstName>
+        <LastName> Zell</LastName>
+        <Hours>48</Hours>
+      </Employee>
+      <Employee>
+        <FirstName>Andy</FirstName>
+        <LastName> Vile</LastName>
+        <Hours>40</Hours>
+      </Employee>
+      <Employee>
+        <FirstName>Tom</FirstName>
+        <LastName> Brand</LastName>
+        <Hours>40</Hours>
+      </Employee>
+      <Employee>
+        <FirstName>Jenny</FirstName>
+        <LastName> Vos</LastName>
+        <Hours>40</Hours>
+      </Employee>
+      <Employee>
+        <FirstName>Chris</FirstName>
+        <LastName> Carter</LastName>
+        <Hours>40</Hours>
+      </Employee>
+      <Employee>
+        <FirstName>Arnold</FirstName>
+        <LastName> Head</LastName>
+        <Hours>40</Hours>
+      </Employee>
+      <Employee>
+        <FirstName>Red</FirstName>
+        <LastName> Bacher</LastName>
+        <Hours>10</Hours>
+      </Employee>
+      <Employee>
+        <FirstName>Roy</FirstName>
+        <LastName> Lewallen</LastName>
+        <Hours>4</Hours>
+      </Employee>
+      <Employee>
+        <FirstName>Kim</FirstName>
+        <LastName> Ted</LastName>
+        <Hours>25</Hours>
+      </Employee>
+    </Employees>
+  </Project>
+  <Project Project_No="30">
+    <Project_Name>Newbenefits</Project_Name>
+    <Dept_Name>Administration</Dept_Name>
+    <Employees>
+      <Employee>
+        <FirstName>Alicia</FirstName>
+        <LastName> Zelaya</LastName>
+        <Hours>30</Hours>
+      </Employee>
+      <Employee>
+        <FirstName>Ahmad</FirstName>
+        <LastName> Jabbar</LastName>
+        <Hours>5</Hours>
+      </Employee>
+      <Employee>
+        <FirstName>Jennifer</FirstName>
+        <LastName> Wallace</LastName>
+        <Hours>20</Hours>
+      </Employee>
+      <Employee>
+        <FirstName>Roy</FirstName>
+        <LastName> Lewallen</LastName>
+        <Hours>4</Hours>
+      </Employee>
+      <Employee>
+        <FirstName>Johny</FirstName>
+        <LastName> Smith</LastName>
+        <Hours>25</Hours>
+      </Employee>
+    </Employees>
+  </Project>
+  <Project Project_No="61">
+    <Project_Name>OperatingSystem</Project_Name>
+    <Dept_Name>Software</Dept_Name>
+    <Employees>
+      <Employee>
+        <FirstName>Jared</FirstName>
+        <LastName> James</LastName>
+        <Hours>40</Hours>
+      </Employee>
+      <Employee>
+        <FirstName>Jon</FirstName>
+        <LastName> Jones</LastName>
+        <Hours>40</Hours>
+      </Employee>
+      <Employee>
+        <FirstName>Justin</FirstName>
+        <LastName> Mark</LastName>
+        <Hours>40</Hours>
+      </Employee>
+      <Employee>
+        <FirstName>Brad</FirstName>
+        <LastName> Knight</LastName>
+        <Hours>40</Hours>
+      </Employee>
+      <Employee>
+        <FirstName>Gerald</FirstName>
+        <LastName> Small</LastName>
+        <Hours>40</Hours>
+      </Employee>
+      <Employee>
+        <FirstName>Naveen</FirstName>
+        <LastName> Drew</LastName>
+        <Hours>40</Hours>
+      </Employee>
+      <Employee>
+        <FirstName>Carl</FirstName>
+        <LastName> Reedy</LastName>
+        <Hours>40</Hours>
+      </Employee>
+      <Employee>
+        <FirstName>Sammy</FirstName>
+        <LastName> Hall</LastName>
+        <Hours>40</Hours>
+      </Employee>
+      <Employee>
+        <FirstName>Red</FirstName>
+        <LastName> Bacher</LastName>
+        <Hours>30</Hours>
+      </Employee>
+      <Employee>
+        <FirstName>Roy</FirstName>
+        <LastName> Lewallen</LastName>
+        <Hours>4</Hours>
+      </Employee>
+      <Employee>
+        <FirstName>Christina</FirstName>
+        <LastName> Hisel</LastName>
+        <Hours>4</Hours>
+      </Employee>
+    </Employees>
+  </Project>
+  <Project Project_No="63">
+    <Project_Name>Middleware</Project_Name>
+    <Dept_Name>Software</Dept_Name>
+    <Employees>
+      <Employee>
+        <FirstName>Kim</FirstName>
+        <LastName> Grace</LastName>
+        <Hours>40</Hours>
+      </Employee>
+      <Employee>
+        <FirstName>Jeff</FirstName>
+        <LastName> Chase</LastName>
+        <Hours>46</Hours>
+      </Employee>
+      <Employee>
+        <FirstName>Helga</FirstName>
+        <LastName> Pataki</LastName>
+        <Hours>40</Hours>
+      </Employee>
+      <Employee>
+        <FirstName>Red</FirstName>
+        <LastName> Bacher</LastName>
+        <Hours>10</Hours>
+      </Employee>
+      <Employee>
+        <FirstName>Roy</FirstName>
+        <LastName> Lewallen</LastName>
+        <Hours>4</Hours>
+      </Employee>
+      <Employee>
+        <FirstName>Jennifer</FirstName>
+        <LastName> Joy</LastName>
+        <Hours>20</Hours>
+      </Employee>
+      <Employee>
+        <FirstName>Jose</FirstName>
+        <LastName> Barbara</LastName>
+        <Hours>40</Hours>
+      </Employee>
+      <Employee>
+        <FirstName>Cindy</FirstName>
+        <LastName> Burklow</LastName>
+        <Hours>25</Hours>
+      </Employee>
+      <Employee>
+        <FirstName>Gregory</FirstName>
+        <LastName> Laurie</LastName>
+        <Hours>25</Hours>
+      </Employee>
+    </Employees>
+  </Project>
+  <Project Project_No="91">
+    <Project_Name>InkjetPrinters</Project_Name>
+    <Dept_Name>Hardware</Dept_Name>
+    <Employees>
+      <Employee>
+        <FirstName>Alex</FirstName>
+        <LastName> Freed</LastName>
+        <Hours>40</Hours>
+      </Employee>
+      <Employee>
+        <FirstName>Bonnie</FirstName>
+        <LastName> Bays</LastName>
+        <Hours>40</Hours>
+      </Employee>
+      <Employee>
+        <FirstName>Alec</FirstName>
+        <LastName> Best</LastName>
+        <Hours>40</Hours>
+      </Employee>
+      <Employee>
+        <FirstName>Sam</FirstName>
+        <LastName> Snedden</LastName>
+        <Hours>40</Hours>
+      </Employee>
+      <Employee>
+        <FirstName>Jill</FirstName>
+        <LastName> Jarvis</LastName>
+        <Hours>40</Hours>
+      </Employee>
+      <Employee>
+        <FirstName>Lyle</FirstName>
+        <LastName> Leslie</LastName>
+        <Hours>40</Hours>
+      </Employee>
+      <Employee>
+        <FirstName>Billie</FirstName>
+        <LastName> King</LastName>
+        <Hours>40</Hours>
+      </Employee>
+      <Employee>
+        <FirstName>Ray</FirstName>
+        <LastName> King</LastName>
+        <Hours>40</Hours>
+      </Employee>
+      <Employee>
+        <FirstName>Roy</FirstName>
+        <LastName> Lewallen</LastName>
+        <Hours>2</Hours>
+      </Employee>
+      <Employee>
+        <FirstName>John</FirstName>
+        <LastName> Ed</LastName>
+        <Hours>10</Hours>
+      </Employee>
+    </Employees>
+  </Project>
+  <Project Project_No="92">
+    <Project_Name>LaserPrinters</Project_Name>
+    <Dept_Name>Hardware</Dept_Name>
+    <Employees>
+      <Employee>
+        <FirstName>John</FirstName>
+        <LastName> James</LastName>
+        <Hours>40</Hours>
+      </Employee>
+      <Employee>
+        <FirstName>Nandita</FirstName>
+        <LastName> Ball</LastName>
+        <Hours>44</Hours>
+      </Employee>
+      <Employee>
+        <FirstName>Jon</FirstName>
+        <LastName> Kramer</LastName>
+        <Hours>40</Hours>
+      </Employee>
+      <Employee>
+        <FirstName>Roy</FirstName>
+        <LastName> Lewallen</LastName>
+        <Hours>1</Hours>
+      </Employee>
+      <Employee>
+        <FirstName>Joseph</FirstName>
+        <LastName> Kirkish</LastName>
+        <Hours>33</Hours>
+      </Employee>
+    </Employees>
+  </Project>
+  <Project Project_No="95">
+    <Project_Name>Human1</Project_Name>
+    <Dept_Name>HR</Dept_Name>
+    <Employees>
+      <Employee>
+        <FirstName>Roy</FirstName>
+        <LastName> Lewallen</LastName>
+        <Hours>3</Hours>
+      </Employee>
+      <Employee>
+        <FirstName>Juan</FirstName>
+        <LastName> Linda</LastName>
+        <Hours>40</Hours>
+      </Employee>
+      <Employee>
+        <FirstName>willie</FirstName>
+        <LastName> Mary</LastName>
+        <Hours>35</Hours>
+      </Employee>
+      <Employee>
+        <FirstName>Sheldon</FirstName>
+        <LastName> Cucuou</LastName>
+        <Hours>23</Hours>
+      </Employee>
+    </Employees>
+  </Project>
+  <Project Project_No="4">
+    <Project_Name>EntityAnnot</Project_Name>
+    <Dept_Name>Research</Dept_Name>
+    <Employees>
+      <Employee>
+        <FirstName>Michael</FirstName>
+        <LastName> Morgan</LastName>
+        <Hours>11</Hours>
+      </Employee>
+      <Employee>
+        <FirstName>Wilson</FirstName>
+        <LastName> Holmes</LastName>
+        <Hours>5</Hours>
+      </Employee>
+      <Employee>
+        <FirstName>Cameron</FirstName>
+        <LastName> Thirteen</LastName>
+        <Hours>45</Hours>
+      </Employee>
+    </Employees>
+  </Project>
+  <Project Project_No="22">
+    <Project_Name>SearchEngine</Project_Name>
+    <Dept_Name>Software</Dept_Name>
+    <Employees>
+      <Employee>
+        <FirstName>Zach</FirstName>
+        <LastName> Geller</LastName>
+        <Hours>30</Hours>
+      </Employee>
+      <Employee>
+        <FirstName>Penny</FirstName>
+        <LastName> Wolowitz</LastName>
+        <Hours>4</Hours>
+      </Employee>
+    </Employees>
+  </Project>
+  <Project Project_No="11">
+    <Project_Name>ConfigMgmt</Project_Name>
+    <Dept_Name>Software</Dept_Name>
+    <Employees>
+      <Employee>
+        <FirstName>Debra</FirstName>
+        <LastName> Hall</LastName>
+        <Hours>20</Hours>
+      </Employee>
+      <Employee>
+        <FirstName>Jake</FirstName>
+        <LastName> Sheen</LastName>
+        <Hours>25</Hours>
+      </Employee>
+      <Employee>
+        <FirstName>Wilson</FirstName>
+        <LastName> Holmes</LastName>
+        <Hours>20</Hours>
+      </Employee>
+    </Employees>
+  </Project>
+  <Project Project_No="29">
+    <Project_Name>MotherBoard</Project_Name>
+    <Dept_Name>Hardware</Dept_Name>
+    <Employees>
+      <Employee>
+        <FirstName>Lisa</FirstName>
+        <LastName> House</LastName>
+        <Hours>10</Hours>
+      </Employee>
+      <Employee>
+        <FirstName>James</FirstName>
+        <LastName> Miller</LastName>
+        <Hours>15</Hours>
+      </Employee>
+      <Employee>
+        <FirstName>Leonard</FirstName>
+        <LastName> Moody</LastName>
+        <Hours>15</Hours>
+      </Employee>
+    </Employees>
+  </Project>
+  <Project Project_No="13">
+    <Project_Name>DataMining</Project_Name>
+    <Dept_Name>Software</Dept_Name>
+    <Employees>
+      <Employee>
+        <FirstName>Alex</FirstName>
+        <LastName> Yu</LastName>
+        <Hours>18</Hours>
+      </Employee>
+    </Employees>
+  </Project>
+</Projects>

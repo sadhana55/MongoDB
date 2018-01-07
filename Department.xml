@@ -1,0 +1,54 @@
+<Department>
+  <Department>Headquarters</Department>
+  <LastName> Borg</LastName>
+  <Department_Locations>
+    <Dept_Location> Houston</Dept_Location>
+  </Department_Locations>
+  <Department>Administration</Department>
+  <LastName> Wallace</LastName>
+  <Department_Locations>
+    <Dept_Location> Stafford</Dept_Location>
+  </Department_Locations>
+  <Department>Research</Department>
+  <LastName> Wong</LastName>
+  <Department_Locations>
+    <Dept_Location> Bellaire</Dept_Location>
+    <Dept_Location> Sugarland</Dept_Location>
+    <Dept_Location> Houston</Dept_Location>
+  </Department_Locations>
+  <Department>Software</Department>
+  <LastName> James</LastName>
+  <Department_Locations>
+    <Dept_Location> Atlanta</Dept_Location>
+    <Dept_Location> Sacramento</Dept_Location>
+  </Department_Locations>
+  <Department>Hardware</Department>
+  <LastName> Freed</LastName>
+  <Department_Locations>
+    <Dept_Location> Milwaukee</Dept_Location>
+  </Department_Locations>
+  <Department>Sales</Department>
+  <LastName> James</LastName>
+  <Department_Locations>
+    <Dept_Location> Chicago</Dept_Location>
+    <Dept_Location> Dallas</Dept_Location>
+    <Dept_Location> Philadephia</Dept_Location>
+    <Dept_Location> Seattle</Dept_Location>
+    <Dept_Location> Miami</Dept_Location>
+  </Department_Locations>
+  <Department>HR</Department>
+  <LastName> Linda</LastName>
+  <Department_Locations>
+    <Dept_Location> Arlington</Dept_Location>
+  </Department_Locations>
+  <Department>QA</Department>
+  <LastName> Kirkish</LastName>
+  <Department_Locations>
+    <Dept_Location> Austin</Dept_Location>
+  </Department_Locations>
+  <Department>Networking</Department>
+  <LastName> Gupta</LastName>
+  <Department_Locations>
+    <Dept_Location/>
+  </Department_Locations>
+</Department>
